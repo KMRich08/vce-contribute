@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Keith Rich](https://github.com/KMRich08) - Student, gamer, family man, and loves computers.
